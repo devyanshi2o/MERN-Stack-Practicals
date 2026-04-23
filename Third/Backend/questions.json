@@ -1,0 +1,58 @@
+{
+  "javascript": [
+    {
+      "id": 1,
+      "question": "What is JS?",
+      "options": ["Language", "Database", "Framework"],
+      "answer": "Language"
+    },
+    {
+      "id": 2,
+      "question": "Which keyword is used for variable?",
+      "options": ["var", "int", "string"],
+      "answer": "var"
+    }
+  ],
+
+  "java": [
+    {
+      "id": 1,
+      "question": "Java is?",
+      "options": ["Language", "OS", "Browser"],
+      "answer": "Language"
+    },
+    {
+      "id": 2,
+      "question": "Which keyword is used to inherit a class?",
+      "options": ["extends", "implements", "inherits"],
+      "answer": "extends"
+    },
+    {
+      "id": 3,
+      "question": "Java is platform?",
+      "options": ["Dependent", "Independent", "Both"],
+      "answer": "Independent"
+    }
+  ],
+
+  "python": [
+    {
+      "id": 1,
+      "question": "Python is?",
+      "options": ["Compiled", "Interpreted", "Assembly"],
+      "answer": "Interpreted"
+    },
+    {
+      "id": 2,
+      "question": "Which symbol is used for comments?",
+      "options": ["//", "#", "/* */"],
+      "answer": "#"
+    },
+    {
+      "id": 3,
+      "question": "Which keyword is used to define a function?",
+      "options": ["function", "def", "fun"],
+      "answer": "def"
+    }
+  ]
+}
